@@ -44,7 +44,17 @@ He takes them around the camp.
 
 
 # Gargonia
+## Overview
+Gargonia is a priosn built on the ruins of an ancient dwarven city fallen into a huge mine.
+The cirty fallen into a `2.5km`X`2.5km` crater and the fall awaken an ancient evil which slept under the mine.
+Slowly the corruption sips into the above ground, making the whole vally dry and unlivable, the water is poison which dull the mind and slowly corrupting the drinkers.
+The Oblisk is one of the only clues regarding the "thing" which dwell benith the ground, and the corruption which slowly takes everyone in the camp.
+Strange dreams will start infesting the group every time they sleep.
+
 ## Places
 ### Main Camp
-* Water is posioned with mind-dulling substence, the only source in the camp is the posioned well, and, an out-of-prison source, the non posioned waters costs much and you can never be sure if you're getting what you paid for.
-* 
+* Water is poisend with mind-dulling substence, the only source in the camp is the poisoned well, and, an out-of-prison source, the non posioned waters costs much and you can never be sure if you're getting what you paid for.
+* This is the only source to buy any kind of equipment, smuggeled or makeshift.
+
+### The Mine
+* The crystals which grow in the mine are "mana-stones" a very rare crystal that in the hands of an artisen can become a basis for a powerful artifact, the reasons it isn't mined even though the prison is basiclly a work camp is that in it's raw form it's as useless as a pieace of glass
